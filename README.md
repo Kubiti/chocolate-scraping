@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this project I combined my knowledge of python lists, loops and syntax together with beautiful soup among others scrape data off a chocolate :chocolate: review site. :yummy:
+In which I combine my knowledge of python lists, loops and syntax together with beautiful soup among others to scrape data off a chocolate :chocolate: review site :yummy:.
 
 ## Pre-Requesites
 1. Basic python (Variables, lists, loops, functions etc.)
