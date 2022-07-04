@@ -1,17 +1,27 @@
+<style> 
+    h1 {
+        background: url('./chocolate.jpg');
+        color: white;
+    }
+</style>
+
+
 # CHOCOLATE SCRAPING WITH BEAUTIFUL SOUP
 
 ## Codecademy Python Cummulative Project
 
 ## Overview
 
-In which I combine my knowledge of python lists, loops and syntax together with beautiful soup among others to scrape data off a chocolate :chocolate: review site :yummy:.
+In which I combine my knowledge of python lists, loops and syntax together with beautiful soup among others to scrape data off a chocolate :chocolate_bar: review site https://content.codecademy.com/courses/beautifulsoup/cacao/index.html :yum:.
 
-## Pre-Requesites
-1. Basic python (Variables, lists, loops, functions etc.)
+## Pre-Requesites :pencil:
+1. Basic python :snake: (Variables, lists, loops, functions etc.)
 2. Command line (BASH)
 3. Jupyter Notebook
-4. Beautiful Soup
-5. Pandas, Numpy
+4. Beautiful Soup :yum:
+5. Pandas
+6. Numpy
+7. Matplotlib
 
 ## Extras
 * Markdown
