@@ -28,11 +28,3 @@ In which I combine my knowledge of python lists, loops and syntax together with 
 * [Python Docs](https://docs.python.org/3/)
 * [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable) and [Markdown](https://www.markdownguide.org/basic-syntax) reference
 
-
-<style> 
-    h1 {
-        background: url('./chocolate.jpg');
-        color: white;
-    }
-</style>
-
