@@ -1,12 +1,5 @@
-<style> 
-    h1 {
-        background: url('./chocolate.jpg');
-        color: white;
-    }
-</style>
 
-
-# CHOCOLATE SCRAPING WITH BEAUTIFUL SOUP
+<h1>CHOCOLATE SCRAPING WITH BEAUTIFUL SOUP</h1>
 
 ## Codecademy Python Cummulative Project
 
@@ -34,3 +27,12 @@ In which I combine my knowledge of python lists, loops and syntax together with 
 * [Codecademy Git and Github course](https://www.codecademy.com/learn/learn-git)
 * [Python Docs](https://docs.python.org/3/)
 * [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable) and [Markdown](https://www.markdownguide.org/basic-syntax) reference
+
+
+<style> 
+    h1 {
+        background: url('./chocolate.jpg');
+        color: white;
+    }
+</style>
+
